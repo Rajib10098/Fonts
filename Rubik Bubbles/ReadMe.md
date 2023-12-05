@@ -2,7 +2,7 @@
 
 ### JSDELIVR link
 
-*version `0.1`*
+#### Versionn `0.1`
 ```
-
+https://cdn.jsdelivr.net/gh/Rajib10098/Fonts@main/Rubik%20Bubbles/version/0.1/rubik-bubbles/rubik-bubbles.css
 ```
