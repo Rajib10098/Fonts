@@ -3,7 +3,7 @@
 	font-family: Nunito Sans 7pt;
 	font-style: normal;
 	font-weight: 400;
-	src: local("Nunito Sans 7pt Regular"), local("NunitoSans7pt-Regular"), url(nunito-sans-7pt-regular.woff) format("woff");
+	src: local("Nunito Sans 7pt Regular"), local("NunitoSans7pt-Regular"), url('https://cdn.jsdelivr.net/gh/Rajib10098/Fonts@main/Nunito%20Sans/version/0.1/nunito-sans-regular.woff') format("woff");
 	font-display: auto;
 }
 
