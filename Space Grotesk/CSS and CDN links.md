@@ -10,7 +10,7 @@ https://cdn.jsdelivr.net/gh/Rajib10098/Fonts@main/Space%20Grotesk/version/0.1/Sp
 
 ## CSS code 
 
-### Version code
+### Code version `0.2`
 
 ```css
 @font-face { 
