@@ -1,4 +1,4 @@
-# Rubik Bubbles DNS link
+# Rubik Bubbles font DNS link
 
 ### JSDELIVR link
 
