@@ -1,9 +1,0 @@
-/* arial */
-@font-face {
-	font-family: Arial;
-	font-style: normal;
-	font-weight: 400;
-	src: local("Arial"), local("ArialMT"), url(arial.woff2) format("woff2");
-	font-display: auto;
-}
-
