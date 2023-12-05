@@ -1,4 +1,4 @@
-## Links
+## Space Grotest CDN Link
 
 **JSDELIVER CDN link for `version 0.1`**
 ```
