@@ -3,7 +3,6 @@
 	font-family: Arial;
 	font-style: normal;
 	font-weight: 400;
-	src: local("Arial"), local("ArialMT"), url(arial.woff2) format("woff2");
-	font-display: auto;
+	src: 'https://cdn.jsdelivr.net/gh/Rajib10098/Fonts@main/Arial/version/0.1/Arial.woff2';
 }
 
