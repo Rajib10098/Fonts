@@ -3,7 +3,7 @@
 	font-family: Rubik Bubbles;
 	font-style: normal;
 	font-weight: 400;
-	src: local("Rubik Bubbles Regular"), local("RubikBubbles-Regular"), url(rubik-bubbles-regular.woff2) format("woff2");
+	src: local("Rubik Bubbles Regular"), local("RubikBubbles-Regular"), url('https://cdn.jsdelivr.net/gh/Rajib10098/Fonts@main/Rubik%20Bubbles/version/0.1/rubik-bubbles/rubik-bubbles-regular.woff2') format("woff2");
 	font-display: auto;
 }
 
